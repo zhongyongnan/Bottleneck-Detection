@@ -1,0 +1,14 @@
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000016.jpg 590,287,706,408,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000036.jpg 479,129,599,238,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000040.jpg 229,194,339,308,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000042.jpg 192,221,316,338,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000046.jpg 296,254,412,376,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000054.jpg 559,312,718,482,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000063.jpg 720,553,873,708,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000066.jpg 664,376,825,521,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000069.jpg 665,282,828,437,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000100.jpg 1055,427,1185,551,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000125.jpg 893,311,1012,438,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000127.jpg 883,288,1010,412,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000140.jpg 687,695,817,818,0
+D:\user\faster-rcnn-tf2-main\VOCdevkit/VOC2007/JPEGImages/000143.jpg 571,702,702,822,0
