@@ -1,0 +1,26 @@
+<annotation>
+	<folder>水滴形截面的玻璃瓶</folder>
+	<filename>Image_20191006233632619.jpg</filename>
+	<path>D:\bottleneck\img\检测 玻璃瓶\水滴形截面的玻璃瓶\Image_20191006233632619.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>960</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottleneck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>721</xmin>
+			<ymin>719</ymin>
+			<xmax>829</xmax>
+			<ymax>835</ymax>
+		</bndbox>
+	</object>
+</annotation>
